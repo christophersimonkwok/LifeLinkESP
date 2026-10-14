@@ -99,8 +99,6 @@ Unknown commands receive a JSON error reply. If the escaped reply is too large f
 
 ## Credits
 
-This is [Christopher Kwok](https://github.com/christophersimonkwok)'s fork of the original team project. [Samyak Anand](https://github.com/sam6fa50) maintains the original project repository; that role is separate from ownership of this fork.
-
 [Christopher Kwok](https://github.com/christophersimonkwok) designed the physical layout of the prototype and built the hardware together with [Samyak Anand](https://github.com/sam6fa50), the original repository maintainer. Samyak also developed the web dashboard and companion apps.
 
 Firmware cleanup and the sensor-validity, telemetry, and MQTT security fixes in this fork were AI-assisted. The team credits above describe the original project contributions.
